@@ -1,0 +1,3 @@
+<Alloy>
+	<PagerTabs id="instance" module="com.navid.tabs" />
+</Alloy>
