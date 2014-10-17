@@ -1,4 +1,4 @@
-**NOTE**: The module this widget wraps currently doesn't work in Titanium 3.3 and up.
+ **NOTE**: The module this widget wraps currently doesn't work in Titanium 3.3 and up.
 
 ----------------
 
